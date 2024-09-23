@@ -9,13 +9,13 @@
 </p>
 
 ## 📂 Descrição
-O curso de Modelos Não Supervisionados foi uma jornada essencial para aprofundar o entendimento e a aplicação de técnicas avançadas de Ciência de Dados e Machine Learning no contexto profissional.
+O curso de Árvores de Decisão e Ensemble Learning ofereceu uma compreensão profunda de algumas das técnicas mais eficazes em MachineLearning para aumentar o poder preditivo em uma variedade de aplicações.
 
-O aprendizado não supervisionado se destaca como uma área de grande interesse e investimento na indústria, pois permite que modelos de dados identifiquem padrões e relações ocultas sem a necessidade de categorização prévia por humanos – um processo frequentemente custoso e demorado. O domínio dessas técnicas abre portas para inovações em áreas como detecção de fraudes, segmentação de público e otimização de processos industriais.
+As árvores de decisão e seus derivados se destacam pela capacidade de lidar com dados complexos de maneira intuitiva, oferecendo um equilíbrio entre interpretabilidade e performance. Durante o curso, foi explorado o conceito de função custo, juntamente com técnicas para mitigar o Overfitting, que pode comprometer a eficácia dos modelos.
 
-Neste curso, foi possível explorar a distinção fundamental entre o aprendizado não supervisionado e os demais modelos de Machine Learning. O algoritmo KMeans foi uma das ferramentas abordadas para identificar agrupamentos naturais em conjuntos de dados. Também foram explorados os Mixture Models e os Mixture Models Gaussianos, modelos sofisticados capazes de lidar com a incerteza inerente aos dados reais, com aplicações em detecção de anomalias e fraudes.
+Além disso, o curso abordou o uso de EnsembleLearning, mostrando como a combinação de múltiplos modelos pode levar a resultados superiores. O modelo #RandomForest, em particular, provou ser uma das soluções mais robustas e confiáveis para problemas desafiadores no contexto de dados.
 
-Combinando teoria robusta e exercícios práticos, o curso proporcionou uma base sólida para aplicar com confiança técnicas de aprendizado não supervisionado em problemas do mundo real.
+Com essa base teórica e prática, o curso proporcionou uma excelente oportunidade para entender como esses modelos podem ser aplicados em cenários reais, como análise de risco financeiro.
 
 ## 📊 Projetos
 
