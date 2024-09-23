@@ -13,7 +13,7 @@ O curso de Árvores de Decisão e Ensemble Learning ofereceu uma compreensão pr
 
 As árvores de decisão e seus derivados se destacam pela capacidade de lidar com dados complexos de maneira intuitiva, oferecendo um equilíbrio entre interpretabilidade e performance. Durante o curso, foi explorado o conceito de função custo, juntamente com técnicas para mitigar o Overfitting, que pode comprometer a eficácia dos modelos.
 
-Além disso, o curso abordou o uso de EnsembleLearning, mostrando como a combinação de múltiplos modelos pode levar a resultados superiores. O modelo #RandomForest, em particular, provou ser uma das soluções mais robustas e confiáveis para problemas desafiadores no contexto de dados.
+Além disso, o curso abordou o uso de EnsembleLearning, mostrando como a combinação de múltiplos modelos pode levar a resultados superiores. O modelo RandomForest, em particular, provou ser uma das soluções mais robustas e confiáveis para problemas desafiadores no contexto de dados.
 
 Com essa base teórica e prática, o curso proporcionou uma excelente oportunidade para entender como esses modelos podem ser aplicados em cenários reais, como análise de risco financeiro.
 
